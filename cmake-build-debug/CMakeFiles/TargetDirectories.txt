@@ -1,0 +1,3 @@
+C:/Users/HP/OneDrive - iitkgp.ac.in/SolvableRubiksCube/cmake-build-debug/CMakeFiles/SolvableRubiksCube.dir
+C:/Users/HP/OneDrive - iitkgp.ac.in/SolvableRubiksCube/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/OneDrive - iitkgp.ac.in/SolvableRubiksCube/cmake-build-debug/CMakeFiles/rebuild_cache.dir
